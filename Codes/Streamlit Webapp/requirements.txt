@@ -1,0 +1,12 @@
+### This list the packages that the web app uses
+
+streamlit
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+shap
+transformers
+torch
+plotly
