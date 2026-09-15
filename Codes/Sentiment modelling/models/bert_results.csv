@@ -1,0 +1,2 @@
+Model,Features,Accuracy,F1 Score
+BERT,Transformer,0.898791394730481,0.9384291869476347

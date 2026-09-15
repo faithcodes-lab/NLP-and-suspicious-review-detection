@@ -1,0 +1,16 @@
+# Trained model weights and intermediate preprocessing artefacts.
+# Regenerable by running the notebooks. Model weights are hosted on Hugging Face.
+*.pkl
+*.safetensors
+*.bin
+
+# Bulk data (see README for the Kaggle source)
+*.zip
+Data/
+
+# Local environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
