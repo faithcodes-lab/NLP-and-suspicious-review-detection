@@ -190,37 +190,20 @@ SHAP (SHapley Additive exPlanations) is used to explain suspicious review predic
 - This project is for academic use only
 
 
-## Project Structure & Resources
+## Project Structure and Resources
 
-Here are all key resources included in this repository:
+- [Codes](./Codes) - preprocessing, EDA, sentiment and suspicious-review modelling, feature ablation, and the Streamlit application
+- [Project Process Documentation](./Project%20Process%20Documentation) - week-by-week record of data handling and modelling decisions
+- [Meeting Minutes](./Meeting%20Minutes) - supervisor consultations and progress reviews
+- [Literature.md](./Literature.md) - reviewed literature underpinning the approach
+- [Proposal](./Proposal) - original project proposal
+- [Team_Charter.pdf](./Team_Charter.pdf) - team working agreement
+- [Project_Flow_chart.pdf](./Project_Flow_chart.pdf) - end-to-end project flow
+- [Issue_board.pdf](./Issue_board.pdf) - task tracking board
+- [Team Reflection](./Team%20Reflection) - personal reflection on the project
 
-- **Source Code (Python Scripts):**  
-  [Code Folder](./Codes/)
-
-- **Data / Processed Files:**  
-  [Data Folder](./Data/)
-
-- **Documents:**  
-[Documents Folder](./Documents/) 
-
-- **literature:**  
-[Literature.md](./Literature.md/)
-
-- **Meeting Minutes:**  
-[Meeting Minutes Folder](./Meeting Minutes/) 
-
-- **Project Flow Chart:**  
-[Project_Flow_chart](./Project_Flow_chart.pdf/)
-
-- **Project Process Documentation:**  
-[Project Process Documentations Folder](./Project Process Documentation/) 
-
-- **Proposal Document:**  
-  [Open Proposal PDF](./Proposal/)
-
-
-
-Feel free to explore each folder for detailed artefacts.
+The raw dataset, trained model weights and pickled preprocessing artefacts are excluded from this
+repository for size. See the dataset link above for the source data.
 
 ---
 
